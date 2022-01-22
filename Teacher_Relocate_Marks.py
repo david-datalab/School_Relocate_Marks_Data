@@ -24,7 +24,7 @@ for row in tables[table_index].tbody.find_all("tr"):
 
 #print(toDb)
 dataFrame = pd.DataFrame(toDb)
-dataFrame.to_csv("ayca_score.csv")
+dataFrame.to_csv("Results.csv")
 
 
 #for row in tables[table_index].tbody.find_all("tr"):
