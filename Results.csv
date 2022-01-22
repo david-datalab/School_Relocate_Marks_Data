@@ -1,0 +1,625 @@
+0,İl Adı,İlçe Adı,Kurum Adı,TABAN PUAN
+1,ADANA,CEYHAN,Başören İlkokulu,159
+2,ADANA,CEYHAN,Başören Ortaokulu,145
+3,ADANA,CEYHAN,Çakabey Mesleki ve Teknik Anadolu Lisesi,179
+4,ADANA,CEYHAN,Doruk Şehit Necip Un Ortaokulu,154
+5,ADANA,CEYHAN,Gümürdülü Ortaokulu,149
+6,ADANA,CEYHAN,Hamdilli Ortaokulu,123
+7,ADANA,CEYHAN,İhsan Demirtaş Ortaokulu,142
+8,ADANA,CEYHAN,Kasım Garipoğlu Anadolu Lisesi,161
+9,ADANA,CEYHAN,Kaymakam Gürbüz Karakuş Ortaokulu,161
+10,ADANA,CEYHAN,Kösreli Ortaokulu,110
+11,ADANA,CEYHAN,Kuzucak Ortaokulu,91
+12,ADANA,CEYHAN,Mercimek Tevhide Atçı Ortaokulu,189
+13,ADANA,CEYHAN,Necati Akçağlılar İlkokulu,127
+14,ADANA,CEYHAN,Şehit Adnan Sürücü Ortaokulu,122
+15,ADANA,CEYHAN,Şehit Fehmi Koç İlkokulu,146
+16,ADANA,CEYHAN,Toros Tarım Anadolu Lisesi,160
+17,ADANA,İMAMOĞLU,Fatih Yatılı Bölge Ortaokulu,189
+18,ADANA,İMAMOĞLU,Şehit Mehmet Atıcı Anadolu Lisesi,150
+19,ADANA,KARATAŞ,Bahçe Hamit Buğa İlkokulu,214
+20,ADANA,KARATAŞ,Hacı Şerafettin Işık Anadolu Lisesi,240
+21,ADANA,KARATAŞ,Tevfik Ayser Canbolat Anadolu İmam Hatip Lisesi,229
+22,ADANA,KARATAŞ,Yemişli İlkokulu,209
+23,ADANA,SARIÇAM,Sarıçam Konaklama Merkezi Anadolu İmam Hatip Lisesi,272
+24,ADANA,SEYHAN,Akkapı Şehit Kemal Yüzgeç Ortaokulu,352
+25,ADANA,SEYHAN,Karayusuflu İlkokulu,238
+26,ADANA,YÜREĞİR,Anadolu Ortaokulu,282
+27,ADANA,YÜREĞİR,Çakabey İlkokulu,203
+28,ADANA,YÜREĞİR,Doğankent Anadolu Lisesi,210
+29,ADANA,YÜREĞİR,Kaşgarlı Mahmut Ortaokulu,195
+30,ADANA,YÜREĞİR,Kazime Özler Ortaokulu,158
+31,ADANA,YÜREĞİR,Koza İlkokulu,233
+32,ADANA,YÜREĞİR,Suat Güçlü Ortaokulu,187
+33,ADANA,YÜREĞİR,Şehit Öğretmen Sait Korkmaz Ortaokulu,374
+34,ADANA,YÜREĞİR,Yakapınar Selahattin Afşar Anadolu Lisesi,183
+35,AFYONKARAHİSAR,BAŞMAKÇI,Çığrı Ortaokulu,182
+36,AFYONKARAHİSAR,BOLVADİN,Alkasan İlkokulu,168
+37,AFYONKARAHİSAR,BOLVADİN,Bolvadin Halk Eğitimi Merkezi,194
+38,AFYONKARAHİSAR,BOLVADİN,Bolvadin Mesleki ve Teknik Anadolu Lisesi,159
+39,AFYONKARAHİSAR,BOLVADİN,Büyükkarabağ Ortaokulu,171
+40,AFYONKARAHİSAR,BOLVADİN,Ceylan Emet İlkokulu,183
+41,AFYONKARAHİSAR,ÇAY,Çay Karacaören Çok Programlı Anadolu Lisesi,143
+42,AFYONKARAHİSAR,ÇAY,Karamık İlkokulu,145
+43,AFYONKARAHİSAR,ÇAY,Seka İlkokulu,150
+44,AFYONKARAHİSAR,ÇOBANLAR,Akkoyunlu İlkokulu,141
+45,AFYONKARAHİSAR,ÇOBANLAR,Atatürk İlkokulu,201
+46,AFYONKARAHİSAR,ÇOBANLAR,Kale Ortaokulu,154
+47,AFYONKARAHİSAR,DAZKIRI,Kızılören Ortaokulu,215
+48,AFYONKARAHİSAR,DİNAR,Tatarlı Cumhuriyet Ortaokulu,207
+49,AFYONKARAHİSAR,DİNAR,Uluköy Ortaokulu,237
+50,AFYONKARAHİSAR,HOCALAR,Hocalar İmam Hatip Ortaokulu,173
+51,AFYONKARAHİSAR,HOCALAR,Yeşilhisar Yunus Emre Ortaokulu,198
+52,AFYONKARAHİSAR,İHSANİYE,Döğer Anadolu İmam Hatip Lisesi,148
+53,AFYONKARAHİSAR,İHSANİYE,Döğer Fatih İlkokulu,151
+54,AFYONKARAHİSAR,İHSANİYE,İhsaniye Anadolu İmam Hatip Lisesi,162
+55,AFYONKARAHİSAR,İHSANİYE,İhsaniye Anadolu Lisesi,298
+56,AFYONKARAHİSAR,İSCEHİSAR,Cevizli Ortaokulu,177
+57,AFYONKARAHİSAR,İSCEHİSAR,Fatih Ortaokulu,267
+58,AFYONKARAHİSAR,İSCEHİSAR,Selçuklu İlkokulu,243
+59,AFYONKARAHİSAR,SANDIKLI,Sandıklı Hüdai Mesleki ve Teknik Anadolu Lisesi,190
+60,AFYONKARAHİSAR,SİNANPAŞA,Çobanözü Ortaokulu,155
+61,AFYONKARAHİSAR,SİNANPAŞA,Güney Ayşe Zeynep Kocabıyık Ortaokulu,155
+62,AFYONKARAHİSAR,SİNANPAŞA,Kayadibi Ortaokluu,155
+63,AFYONKARAHİSAR,SİNANPAŞA,Kınık Ortaokulu,156
+64,AFYONKARAHİSAR,SİNANPAŞA,Kırka Şehit Ramazan Bağlan Ortaokulu,187
+65,AFYONKARAHİSAR,SİNANPAŞA,Küçükhüyük İlkokulu,167
+66,AFYONKARAHİSAR,SİNANPAŞA,Taşoluk İmam Hatip Ortaokulu,203
+67,AFYONKARAHİSAR,SULTANDAĞI,Sultandağı İmam Hatip Ortaokulu,156
+68,AFYONKARAHİSAR,ŞUHUT,Karaadilli Çok Programlı Anadolu Lisesi,140
+69,AFYONKARAHİSAR,ŞUHUT,Karaadilli İmam Hatip Ortaokulu,155
+70,AKSARAY,GÜLAĞAÇ,Saratlı Ortaokulu,116
+71,AKSARAY,GÜZELYURT,Güzelyurt Anadolu İmam Hatip Lisesi,boş
+72,AKSARAY,MERKEZ,Bağlıkaya Şehit Muammer Karacaer Ortaokulu,117
+73,AKSARAY,MERKEZ,Karacaoren İlkokulu,boş
+74,AKSARAY,MERKEZ,Şehit Hatip Uçkun Anadolu Lisesi,150
+75,AKSARAY,SULTANHANI,75. Yıl Cumhuriyet Ortaokulu,144
+76,AMASYA,GÜMÜŞHACIKÖY,Gümüş Ortaokulu,162
+77,AMASYA,GÜMÜŞHACIKÖY,Gümüşhacıköy Mesleki ve Teknik Anadolu Lisesi,152
+78,AMASYA,MERZİFON,Alıcık Şehit İlker Atan Ortaokulu,241
+79,AMASYA,MERZİFON,Kayadüzü Işık İlkokulu,212
+80,AMASYA,SULUOVA,Eraslan Şehit Fatih Mehmet Keleş Ortaokulu,188
+81,AMASYA,TAŞOVA,Belevi Ortaokulu,153
+82,AMASYA,TAŞOVA,Şehit İdris Bolat Anadolu Lisesi,151
+83,AMASYA,TAŞOVA,Taşova Şehit Polis Ahmet Yaşar Mesleki ve Teknik Anadolu Lisesi,151
+84,ANKARA,AKYURT,Akyurt Anadolu Lisesi,202
+85,ANKARA,AKYURT,Akyurt İlkokulu,217
+86,ANKARA,AKYURT,Akyurt İmam Hatip Ortaokulu,227
+87,ANKARA,AKYURT,Akyurt Mehmet Akif Ersoy Ortaokulu,196
+88,ANKARA,AKYURT,Akyurt TOKİ Ortaokulu,320
+89,ANKARA,AKYURT,Akyurt Yıldırım Beyazıt İlkokulu,173
+90,ANKARA,AKYURT,Barmek Ortaokulu,193
+91,ANKARA,AKYURT,Nevzat Hüseyin Tiryaki Mesleki ve Teknik Anadolu Lisesi,165
+92,ANKARA,ALTINDAĞ,Borsa İstanbul Anadolu Lisesi,302
+93,ANKARA,ALTINDAĞ,Hacı Bayram İmam Hatip Ortaokulu,298
+94,ANKARA,ALTINDAĞ,Halil Kut Paşa Ortaokulu,235
+95,ANKARA,ALTINDAĞ,Karapürçek Şehit Osman Kablan Ortaokulu,197
+96,ANKARA,ALTINDAĞ,Şehit Muzaffer Aydoğdu Ortaokulu,299
+97,ANKARA,ALTINDAĞ,Şehit Osman Evsahibioğlu Ortaokulu,261
+98,ANKARA,BEYPAZARI,Akşemseddin Ortaokulu,177
+99,ANKARA,BEYPAZARI,Beypazarı Fatih Mesleki ve Teknik Anadolu Lisesi,90
+100,ANKARA,BEYPAZARI,Beypazarı Nurettin Karaoğuz Vakfı Anadolu Lisesi,139
+101,ANKARA,BEYPAZARI,Namık Kemal Ortaokulu,211
+102,ANKARA,ÇUBUK,Akkuzulu Ortaokulu,177
+103,ANKARA,ÇUBUK,Barbaros Ortaokulu,173
+104,ANKARA,ÇUBUK,Bekir Yılmaz Ortaokulu,183
+105,ANKARA,ÇUBUK,Çubuk Gevher Nesibe Mesleki ve Teknik Anadolu Lisesi,177
+106,ANKARA,ÇUBUK,Fatih Sultan Mehmet Mesleki ve Teknik Anadolu Lisesi,139
+107,ANKARA,ÇUBUK,Muammer Kandemir İmam Hatip Ortaokulu,151
+108,ANKARA,ÇUBUK,Şehit Hayati Bilgin Mesleki ve Teknik Anadolu Lisesi,141
+109,ANKARA,ÇUBUK,TOKİ Ortaokulu,138
+110,ANKARA,ÇUBUK,Türk Telekom Ortaokulu,204
+111,ANKARA,ÇUBUK,Yunus Emre Anadolu Lisesi,143
+112,ANKARA,KALECİK,Dumlupınar Ortaokulu,118
+113,ANKARA,KALECİK,Hasayaz Ortaokulu,94
+114,ANKARA,KALECİK,Kalecik Anadolu Lisesi,121
+115,ANKARA,KEÇİÖREN,Akşemsettin Anadolu Lisesi,393
+116,ANKARA,KEÇİÖREN,Keçiören İMKB Mesleki ve Teknik Anadolu Lisesi,341
+117,ANKARA,KEÇİÖREN,Osmangazi Anadolu Lisesi,359
+118,ANKARA,KIZILCAHAMAM,Çeltikçi Ortaokulu,117
+119,ANKARA,KIZILCAHAMAM,Güvem İlkokulu,83
+120,ANKARA,KIZILCAHAMAM,Kızılcahamam İbn-i Sina Mesleki ve Teknik Anadolu Lisesi,165
+121,ANKARA,KIZILCAHAMAM,Kızılcahamam TOKİ Anadolu İmam Hatip Lisesi,114
+122,ANKARA,MAMAK,Nahit Menteşe Anadolu Lisesi,254
+123,ANKARA,MAMAK,Şehit Suat Aloğlu Ortaokulu,194
+124,ANKARA,MAMAK,Şh.Py.Er Murat Eroğlu Ortaokulu,351
+125,ANKARA,MAMAK,Vehbi Dinçerler Ortaokulu,203
+126,ANTALYA,AKSEKİ,Akseki Anadolu İmam Hatip Lisesi,272
+127,ANTALYA,AKSEKİ,Akseki Emine-Ahmet Büküşoğlu Ortaokulu,261
+128,ANTALYA,AKSEKİ,Taşlıca Ahmet Hamdi Akseki İlkokulu,235
+129,ANTALYA,ALANYA,Ali İhsan Dimçay İlkokulu,335
+130,ANTALYA,ALANYA,Ayşen-Cengiz Urfalıoğlu Ortaokulu,405
+131,ANTALYA,ALANYA,Emişbeleni İmam Hatip Ortaokulu,560
+132,ANTALYA,ALANYA,Güzelbağ Ortaokulu,310
+133,ANTALYA,DEMRE,Beymelek İlkokulu,298
+134,ANTALYA,ELMALI,Özdemir Ortaokulu,242
+135,ANTALYA,FİNİKE,Arif Şehit Osman Çelik İlkokulu,295
+136,ANTALYA,GÜNDOĞMUŞ,Gündoğmuş Anadolu Lisesi,238
+137,ANTALYA,GÜNDOĞMUŞ,Köprülü Ayşe Güven Ortaokulu,216
+138,ANTALYA,KAŞ,Sütleğen Yatılı Bölge Ortaokulu,226
+139,ANTALYA,KAŞ,Yeşilköy Hilmi Toksoy Ortaokulu,330
+140,ANTALYA,KEMER,Tekirova Halit Narin İlkokulu,445
+141,ANTALYA,KORKUTELİ,Erkunt Traktör İmam Hatip Ortaokulu,268
+142,AYDIN,BOZDOĞAN,Madran İlkokulu,263
+143,AYDIN,BOZDOĞAN,Olukbaşı Ortaokulu,295
+144,AYDIN,ÇİNE,Şehit Süleyman Güneri İlkokulu,356
+145,AYDIN,KARACASU,Yaykın Ortaokulu,247
+146,AYDIN,YENİPAZAR,Karacaören Ortaokulu,303
+147,BALIKESİR,DURSUNBEY,Dursunbey Mesleki ve Teknik Anadolu Lisesi,179
+148,BALIKESİR,DURSUNBEY,Dursunbey Mustafa Korkmaz Anadolu Lisesi,185
+149,BALIKESİR,DURSUNBEY,Dursunbey Sarı Hoca Anadolu İmam Hatip Lisesi,179
+150,BALIKESİR,DURSUNBEY,Dursunbey Şehit Ömer Halisdemir İmam Hatip Ortaokulu,184
+151,BALIKESİR,DURSUNBEY,Göbül Ortaokulu,178
+152,BALIKESİR,DURSUNBEY,Selimağa Kayaoğlu İlkokulu,229
+153,BALIKESİR,ERDEK,Karşıyaka Çok Programlı Anadolu Lisesi,339
+154,BALIKESİR,ERDEK,RECEP AHMET MERCAN ORTAOKULU,366
+155,BALIKESİR,GÖNEN,Sarıköy Çok Programlı Anadolu Lisesi,305
+156,BALIKESİR,İVRİNDİ,Büyükyenice İlkokulu,289
+157,BALIKESİR,SINDIRGI,Düvertepe İlkokulu,160
+158,BALIKESİR,SINDIRGI,Düvertepe Yatılı Bölge Ortaokulu,165
+159,BALIKESİR,SINDIRGI,Sındırgı Mesleki ve Teknik Anadolu Lisesi,244
+160,BALIKESİR,SINDIRGI,Yüreğil Ortaokulu,199
+161,BARTIN,AMASRA,Şehit Ahmet Telli Ortaokulu,241
+162,BARTIN,MERKEZ,Hacıosmanoğlu İlkokulu,205
+163,BARTIN,MERKEZ,Kozcağız Ortaokulu,283
+164,BARTIN,ULUS,Abdipaşa İlkokulu,192
+165,BİLECİK,PAZARYERİ,Kınık Ortaokulu,222
+166,BOLU,GEREDE,Nimet Meto Mesleki ve Teknik Anadolu Lisesi,237
+167,BOLU,MENGEN,Gentaş Ahmet Kahraman Çok Programlı Anadolu Lisesi,168
+168,BOLU,MENGEN,Gökcesu Ortaokulu,128
+169,BOLU,MENGEN,Mengen Anadolu İmam Hatip Lisesi,168
+170,BOLU,MUDURNU,Mudurnu Çok Programlı Anadolu Lisesi,159
+171,BOLU,MUDURNU,Mudurnu Ortaokulu,214
+172,BOLU,MUDURNU,Taşkesti Ortaokulu,107
+173,BOLU,MUDURNU,Yazılar İlkokulu,184
+174,BOLU,SEBEN,Seben Çok Programlı Anadolu Lisesi,120
+175,BOLU,SEBEN,Seben Ortaokulu,147
+176,BURSA,GEMLİK,Gemlik Mesleki ve Teknik Anadolu Lisesi,271
+177,BURSA,GÜRSU,Gürsu Anadolu İmam Hatip Lisesi,214
+178,BURSA,GÜRSU,Gürsu Recep Tayyip Erdoğan Ortaokulu,248
+179,BURSA,GÜRSU,Hamdi Çalış Ortaokulu,307
+180,BURSA,GÜRSU,Lokman Hekim Mesleki ve Teknik Anadolu Lisesi,265
+181,BURSA,GÜRSU,Zafer Ortaokulu,219
+182,BURSA,HARMANCIK,Harmancık 75.Yıl Çok Programlı Anadolu Lisesi,167
+183,BURSA,HARMANCIK,Harmancık İmam Hatip Ortaokulu,177
+184,BURSA,İNEGÖL,Abdulhamit Han Ortaokulu,211
+185,BURSA,İNEGÖL,Akhisar İlkokulu,206
+186,BURSA,İNEGÖL,Altıeylül Ortaokulu,265
+187,BURSA,İNEGÖL,Cerrah Ortaokulu,209
+188,BURSA,İNEGÖL,Hacı Sevim Yıldız-2 Mesleki ve Teknik Anadolu Lisesi,194
+189,BURSA,İNEGÖL,İnegöl Organize Sanayi Bölgesi Ortaokulu,197
+190,BURSA,İNEGÖL,Yenice 19 Mayıs Anadolu Lisesi,198
+191,BURSA,İNEGÖL,Yunus Emre Mesleki ve Teknik Anadolu Lisesi,230
+192,BURSA,İZNİK,Orhaniye Ortaokulu,197
+193,BURSA,KELES,Abdullah Akça Ortaokulu,176
+194,BURSA,KELES,Keles Çok Programlı Anadolu Lisesi,193
+195,BURSA,YILDIRIM,Has Asansör Mesleki ve Teknik Anadolu Lisesi,214
+196,BURSA,YILDIRIM,Necip Fazıl Kısakürek Anadolu İmam Hatip Lisesi,321
+197,BURSA,YILDIRIM,Semiha Mustafa Özer İmam Hatip Ortaokulu,260
+198,BURSA,YILDIRIM,Şehit Polis İbrahim Akın Ortaokulu,243
+199,BURSA,YILDIRIM,Şirinevler İmam Hatip Ortaokulu,237
+200,BURSA,YILDIRIM,Üstün Üründül İlkokulu,269
+201,BURSA,YILDIRIM,Vakıf İlkokulu,283
+202,BURSA,YILDIRIM,Yıldırım Belediye Ortaokulu,245
+203,BURSA,YILDIRIM,Yıldırım Beyazıt İMKB Mesleki ve Teknik Anadolu Lisesi,227
+204,ÇANAKKALE,YENİCE,Pazarköy Şehit Halil Kandemir İlkokulu,328
+205,DENİZLİ,ACIPAYAM,Gölcük İlkokulu,280
+206,DENİZLİ,ACIPAYAM,Yeşilyuva Osman Çemen Çok Programlı Anadolu Lisesi,305
+207,DENİZLİ,ÇAMELİ,Gökçeyaka 75.Yıl Cumhuriyet Ortaokulu,268
+208,DENİZLİ,ÇARDAK,Söğüt Ortaokulu,269
+209,DENİZLİ,ÇİVRİL,Irgıllı Ortaokulu,274
+210,DİYARBAKIR,BAĞLAR,Eczacılar İmam Hatip Ortaokulu,197
+211,DİYARBAKIR,BAĞLAR,Fatih Anadolu Lisesi,279
+212,DİYARBAKIR,BAĞLAR,Fatih Ortaokulu,252
+213,DİYARBAKIR,BAĞLAR,Hürriyet İlkokulu,174
+214,DİYARBAKIR,BAĞLAR,Koşuyolu Mesleki ve Teknik Anadolu Lisesi,261
+215,DİYARBAKIR,BAĞLAR,Milli Eğitim Vakfı İmam Hatip Ortaokulu,235
+216,DİYARBAKIR,KAYAPINAR,Nafiye Ömer Şevki Cizrelioğlu Ortaokulu,349
+217,DİYARBAKIR,KAYAPINAR,Şehit Öğretmen Ayşe Numan Konakçı İlkokulu,297
+218,DİYARBAKIR,SUR,Çarıklı Milli Egemenlik Ortaokulu,92
+219,DİYARBAKIR,SUR,GAP Karaçalı Anadolu Lisesi,157
+220,DİYARBAKIR,SUR,Yiğit Çavuş Anadolu Lisesi,164
+221,DÜZCE,MERKEZ,Düzce Fatih Mesleki ve Teknik Anadolu Lisesi,190
+222,DÜZCE,MERKEZ,Necmi Hoşver Ortaokulu,191
+223,DÜZCE,MERKEZ,Rıza Malatyalı İlkokulu,214
+224,DÜZCE,YIĞILCA,Mevlana Ortaokulu,188
+225,ESKİŞEHİR,BEYLİKOVA,Atatürk Ortaokulu,279
+226,ESKİŞEHİR,ÇİFTELER,Şehit Ercan Canavar Mesleki ve Teknik Anadolu Lisesi,297
+227,ESKİŞEHİR,MAHMUDİYE,Şehit Salim Gökhan Uzun Ortaokulu,270
+228,ESKİŞEHİR,MİHALIÇÇIK,Yunusemre İmam Hatip Ortaokulu,266
+229,GAZİANTEP,NURDAĞI,Feyzullah Yıldırır Anadolu Lisesi,boş
+230,GAZİANTEP,NURDAĞI,Şehit Şirin Diril Çok Programlı Anadolu Lisesi,boş
+231,GAZİANTEP,OĞUZELİ,Oğuzeli Mesleki ve Teknik Anadolu Lisesi,boş
+232,GAZİANTEP,OĞUZELİ,Yatılı Bölge Ortaokulu,boş
+233,GİRESUN,BULANCAK,Büyükada Ortaokulu,314
+234,GİRESUN,BULANCAK,Kovanlık İlkokulu,303
+235,GİRESUN,ÇANAKÇI,Karabörk İlkokulu,231
+236,GİRESUN,GÖRELE,Aydınlar Ortaokulu,153
+237,GİRESUN,GÖRELE,Taşlık İlkokulu,125
+238,HATAY,ANTAKYA,Narlıca Cumhuriyet Ortaokulu,206
+239,HATAY,BELEN,Belen Mesleki ve Teknik Anadolu Lisesi,280
+240,HATAY,BELEN,Şevket Çalışkan İlkokulu,217
+241,HATAY,DÖRTYOL,Atatürk Ortaokulu,219
+242,HATAY,DÖRTYOL,Gevher Nesibe Mesleki ve Teknik Anadolu Lisesi,217
+243,HATAY,DÖRTYOL,Ocaklı Mustafa Kemal İlkokulu,190
+244,HATAY,ERZİN,Erzin Çok Programlı Anadolu Lisesi,231
+245,HATAY,PAYAS,Payas Anadolu İmam Hatip Lisesi,174
+246,HATAY,PAYAS,Payas Anadolu Lisesi,187
+247,HATAY,PAYAS,Payas Mesleki ve Teknik Anadolu Lisesi,352
+248,HATAY,PAYAS,Payas Yunus Emre Ortaokulu,192
+249,HATAY,SAMANDAĞ,Eriklikuyu İmam Hatip Ortaokulu,186
+250,HATAY,SAMANDAĞ,Gözene Defne Rotary Ortaokulu,270
+251,ISPARTA,YALVAÇ,Körküler Ortaokulu,371
+252,İSTANBUL,ARNAVUTKÖY,Akşemsettin İmam Hatip Ortaokulu,139
+253,İSTANBUL,BAĞCILAR,Ahi Evren Kız Anadolu İmam Hatip Lisesi,boş
+254,İSTANBUL,BAĞCILAR,Akyiğit Ortaokulu,80
+255,İSTANBUL,BAĞCILAR,Aliya İzzetbegoviç Anadolu Lisesi,boş
+256,İSTANBUL,BAĞCILAR,Aşık Şenlik Ortaokulu,boş
+257,İSTANBUL,BAĞCILAR,Aşkaleli İbrahim Polat Ortaokulu,boş
+258,İSTANBUL,BAĞCILAR,Bağcılar Anadolu Lisesi,boş
+259,İSTANBUL,BAĞCILAR,Bağcılar Borsa İstanbul Ortaokulu,boş
+260,İSTANBUL,BAĞCILAR,Bağcılar Cemil Meriç Ortaokulu,boş
+261,İSTANBUL,BAĞCILAR,Bağcılar Mustafa Kemal Ortaokulu,149
+262,İSTANBUL,BAĞCILAR,Bağcılar Piri Reis Ortaokulu,boş
+263,İSTANBUL,BAĞCILAR,Bağcılar Plevne Ortaokulu,boş
+264,İSTANBUL,BAĞCILAR,Dr Cemil – Fevziye Özkaya Ortaokulu,boş
+265,İSTANBUL,BAĞCILAR,Erol Battal Ortaokulu,boş
+266,İSTANBUL,BAĞCILAR,Füruzan Sadıkoğlu Ortaokulu,boş
+267,İSTANBUL,BAĞCILAR,İnönü Ortaokulu,boş
+268,İSTANBUL,BAĞCILAR,Mahir İz Ortaokulu,boş
+269,İSTANBUL,BAĞCILAR,Malazgirt Ortaokulu,boş
+270,İSTANBUL,BAĞCILAR,Milli Eğitim Vakfı 60 Yıl Ucanevler Ortaokulu,boş
+271,İSTANBUL,BAĞCILAR,Münir Nurettin Selçuk Ortaokulu,61
+272,İSTANBUL,BAĞCILAR,Peyami Safa Ortaokulu,boş
+273,İSTANBUL,BAĞCILAR,Sebahattin Zaim İmam Hatip Ortaokulu,boş
+274,İSTANBUL,BAĞCILAR,Şükrü Savaşeri Ortaokulu,boş
+275,İSTANBUL,BAĞCILAR,Ümmü Mihcen Kız Anadolu İmam Hatip Lisesi,boş
+276,İSTANBUL,BAĞCILAR,Vakıflar Ortaokulu,boş
+277,İSTANBUL,BAĞCILAR,Yeşilbağ Adnan Ötügen Ortaokulu,boş
+278,İSTANBUL,BAĞCILAR,Yunus Emre Mesleki ve Teknik Anadolu Lisesi,boş
+279,İSTANBUL,BAHÇELİEVLER,15 Temmuz Şehitleri İmam Hatip Ortaokulu,139
+280,İSTANBUL,BAHÇELİEVLER,Ata Ortaokulu,boş
+281,İSTANBUL,BAHÇELİEVLER,Bülent Ecevit Ortaokulu,boş
+282,İSTANBUL,BAHÇELİEVLER,Emir Sultan Ortaokulu,boş
+283,İSTANBUL,BAHÇELİEVLER,Kemal Hasoğlu İmam Hatip Ortaokulu,148
+284,İSTANBUL,BAHÇELİEVLER,Kuleli Ortaokulu,124
+285,İSTANBUL,BAHÇELİEVLER,Mustafa Kemal Ortaokulu,191
+286,İSTANBUL,BAHÇELİEVLER,Prof.Dr.Aziz Sancar Ortaokulu,104
+287,İSTANBUL,BAHÇELİEVLER,Şehit Erhan Bulut Ortaokulu,boş
+288,İSTANBUL,BAHÇELİEVLER,Yenibosna Fatih Ortaokulu,111
+289,İSTANBUL,BAHÇELİEVLER,Yenibosna Şehit Muhammed Ali Kalo Ortaokulu,57
+290,İSTANBUL,BAHÇELİEVLER,Yunus Emre İmam Hatip Ortaokulu,103
+291,İSTANBUL,BAYRAMPAŞA,Prof.Muharrem Ergin Ortaokulu,121
+292,İSTANBUL,BAYRAMPAŞA,Yahya Kemal Ortaokulu,116
+293,İSTANBUL,BÜYÜKÇEKMECE,Emlak Konut Mimar Sinan Anadolu Lisesi,178
+294,İSTANBUL,BÜYÜKÇEKMECE,Kumburgaz Mehmet Erçağ Anadolu Lisesi,117
+295,İSTANBUL,BÜYÜKÇEKMECE,Tepekent Borsa İstanbul Anadolu Lisesi,111
+296,İSTANBUL,ÇATALCA,Hallaçlı Ortaokulu,116
+297,İSTANBUL,ÇATALCA,Muratbey Esin Ovacık İlkokulu,118
+298,İSTANBUL,ESENLER,125 Yıl Ortaokulu,boş
+299,İSTANBUL,ESENLER,Akşemsettin Anadolu İmam Hatip Lisesi,boş
+300,İSTANBUL,ESENLER,Amiral Vehbi Ziya Dümer Anadolu Lisesi,57
+301,İSTANBUL,ESENLER,Ayvalıdere Ortaokulu,107
+302,İSTANBUL,ESENLER,Dr İlhami Faydagör Ortaokulu,86
+303,İSTANBUL,ESENLER,Esenler Menderes Anadolu Lisesi,boş
+304,İSTANBUL,ESENLER,Esenler Tuna Mesleki ve Teknik Anadolu Lisesi,boş
+305,İSTANBUL,ESENLER,Hasip Dinçsoy İlkokulu,boş
+306,İSTANBUL,ESENLER,İbrahim Turhan Anadolu Lisesi,88
+307,İSTANBUL,ESENLER,İbrahim Turhan Mesleki ve Teknik Anadolu Lisesi,boş
+308,İSTANBUL,ESENLER,Mehmet Akif Ersoy İlkokulu,boş
+309,İSTANBUL,ESENLER,Menderes Ortaokulu,boş
+310,İSTANBUL,ESENLER,Nene Hatun İlkokulu,boş
+311,İSTANBUL,ESENLER,Öz-De-Bir Ortaokulu,101
+312,İSTANBUL,ESENLER,Şehit Hüseyin Kısa Ortaokulu,145
+313,İSTANBUL,ESENLER,Şehit Muhammed Aksu Kız Anadolu İmam Hatip Lisesi,boş
+314,İSTANBUL,ESENLER,Şehit Sait Ertürk Ortaokulu,boş
+315,İSTANBUL,ESENLER,Türk – İsveç Kardeşlik Ortaokulu,boş
+316,İSTANBUL,GAZİOSMANPAŞA,Dumlupınar Ortaokulu,boş
+317,İSTANBUL,GÜNGÖREN,75 Yıl Ortaokulu,boş
+318,İSTANBUL,GÜNGÖREN,Cumhuriyet İlkokulu,boş
+319,İSTANBUL,GÜNGÖREN,Gaziler İmam Hatip Ortaokulu,boş
+320,İSTANBUL,GÜNGÖREN,Gençosman İmam Hatip Ortaokulu,95
+321,İSTANBUL,GÜNGÖREN,Güngören Gençosman İMKB Çok Programlı Anadolu Lisesi,boş
+322,İSTANBUL,GÜNGÖREN,Güngören İmam Hatip Ortaokulu,boş
+323,İSTANBUL,GÜNGÖREN,Güngören Yahya Çavuş İlkokulu,boş
+324,İSTANBUL,GÜNGÖREN,Halil İnalcık Anadolu Lisesi,boş
+325,İSTANBUL,GÜNGÖREN,Haznedar Abdi İpekçi Ortaokulu,127
+326,İSTANBUL,GÜNGÖREN,İbn-i Sina Mesleki ve Teknik Anadolu Lisesi,boş
+327,İSTANBUL,GÜNGÖREN,İncirlibahçe Ortaokulu,105
+328,İSTANBUL,GÜNGÖREN,Mehmet Akif Ersoy İmam Hatip Ortaokulu,boş
+329,İSTANBUL,GÜNGÖREN,Mustafa Kemal Ortaokulu,boş
+330,İSTANBUL,GÜNGÖREN,Ömer Dinçer İmam Hatip Ortaokulu,99
+331,İSTANBUL,GÜNGÖREN,PROF. DR. FUAT SEZGİN ORTAOKULU,180
+332,İSTANBUL,GÜNGÖREN,Tozkoparan İmam Hatip Ortaokulu,boş
+333,İSTANBUL,KÜÇÜKÇEKMECE,75. Yıl Sefaköy İmam Hatip Ortaokulu,boş
+334,İSTANBUL,KÜÇÜKÇEKMECE,Arif Nihat Asya Ortaokulu,boş
+335,İSTANBUL,KÜÇÜKÇEKMECE,Dr Hulusi Behçet Ortaokulu,boş
+336,İSTANBUL,KÜÇÜKÇEKMECE,Halkalı İMKB Çok Programlı Anadolu Lisesi,140
+337,İSTANBUL,KÜÇÜKÇEKMECE,Halkalı Mehmet Akif Ersoy Çok Programlı Anadolu Lisesi,78
+338,İSTANBUL,KÜÇÜKÇEKMECE,İkitelli Ortaokulu,boş
+339,İSTANBUL,KÜÇÜKÇEKMECE,Kadriye Moroğlu Anadolu Lisesi,214
+340,İSTANBUL,KÜÇÜKÇEKMECE,Kartaltepe Ortaokulu,88
+341,İSTANBUL,KÜÇÜKÇEKMECE,Küçükçekmece Anadolu İmam Hatip Lisesi,84
+342,İSTANBUL,KÜÇÜKÇEKMECE,Mehmet Akif İnan İmam Hatip Ortaokulu,155
+343,İSTANBUL,KÜÇÜKÇEKMECE,Mimar Sinan Ortaokulu,127
+344,İSTANBUL,KÜÇÜKÇEKMECE,Munis Faik Ozansoy Ortaokulu,95
+345,İSTANBUL,KÜÇÜKÇEKMECE,Mustafa Eravutmuş Ortaokulu,205
+346,İSTANBUL,KÜÇÜKÇEKMECE,Sultan Reşat Ortaokulu,boş
+347,İSTANBUL,KÜÇÜKÇEKMECE,Şehit Binbaşı Bedir Karabıyık Çok Programlı Anadolu Lisesi,boş
+348,İSTANBUL,KÜÇÜKÇEKMECE,Şehit Münür Alkan Ortaokulu,150
+349,İSTANBUL,KÜÇÜKÇEKMECE,TOKİ Halkalı Anadolu İmam Hatip Lisesi,116
+350,İSTANBUL,KÜÇÜKÇEKMECE,Yunus Emre Ortaokulu,boş
+351,İSTANBUL,SİLİVRİ,80 Yıl Cumhuriyet Ortaokulu,299
+352,İSTANBUL,ZEYTİNBURNU,Abdulhakhamit İmam Hatip Ortaokulu,boş
+353,İSTANBUL,ZEYTİNBURNU,Abdülhak Hamit Ortaokulu,boş
+354,İSTANBUL,ZEYTİNBURNU,Ahmet Vefikpaşa Ortaokulu,92
+355,İSTANBUL,ZEYTİNBURNU,Ayhan Şahenk Ortaokulu,103
+356,İSTANBUL,ZEYTİNBURNU,Kazım Özalp Ortaokulu,83
+357,İSTANBUL,ZEYTİNBURNU,Reşat Tardu Ortaokulu,192
+358,İSTANBUL,ZEYTİNBURNU,Sümer İmam Hatip Ortaokulu,boş
+359,İSTANBUL,ZEYTİNBURNU,Şehit Kadir Cihan Karagözlü Ortaokulu,54
+360,İSTANBUL,ZEYTİNBURNU,Şemsettin Sami Ortaokulu,boş
+361,İSTANBUL,ZEYTİNBURNU,TOKİ Seyit Nizam Şehit Semih Balaban İmam Hatip Ortaokulu,boş
+362,İZMİR,BAYINDIR,Fırınlı Ortaokulu,332
+363,İZMİR,KARABAĞLAR,Duğrallar İlkokulu,338
+364,İZMİR,KINIK,Gaziosmanpaşa Ortaokulu,301
+365,İZMİR,KİRAZ,Ali Niğde Anadolu İmam Hatip Lisesi,272
+366,İZMİR,KİRAZ,Kiraz Çok Programlı Anadolu Lisesi,259
+367,İZMİR,KİRAZ,Türk Telekom Yatılı Bölge Ortaokulu,284
+368,İZMİR,KONAK,Başöğretmen İlkokulu,374
+369,İZMİR,KONAK,Fatih Mehmet İmam Hatip Ortaokulu,311
+370,İZMİR,KONAK,Konak Beştepeler Çok Programlı Anadolu Lisesi,443
+371,İZMİR,KONAK,Seyfi Gülmezoğlu Ortaokulu,315
+372,İZMİR,KONAK,Şehit Halit Zilani Çelik İmam Hatip Ortaokulu,309
+373,İZMİR,MENEMEN,100. Yıl Ortaokulu,386
+374,KAHRAMANMARAŞ,DULKADİROĞLU,Barınma Merkezi İlkokulu,172
+375,KAHRAMANMARAŞ,ONİKİŞUBAT,Fatih Sultan Mehmet İlkokulu,110
+376,KAHRAMANMARAŞ,ONİKİŞUBAT,Fatmalı İlkokulu,160
+377,KAHRAMANMARAŞ,ONİKİŞUBAT,Zeytindere İlkokulu,76
+378,KAHRAMANMARAŞ,TÜRKOĞLU,Beyoğlu Şehit Abuzer Doğan Ortaokulu,boş
+379,KAHRAMANMARAŞ,TÜRKOĞLU,Beyoğlu Yenimahalle İlkokulu,boş
+380,KAHRAMANMARAŞ,TÜRKOĞLU,Ertuğrul Gazi İlkokulu,boş
+381,KAHRAMANMARAŞ,TÜRKOĞLU,Kılılı Anadolu Lisesi,109
+382,KAHRAMANMARAŞ,TÜRKOĞLU,Kılılı Nazlı Balduk İlkokulu,boş
+383,KAHRAMANMARAŞ,TÜRKOĞLU,Türkoğlu Anadolu Lisesi,103
+384,KAHRAMANMARAŞ,TÜRKOĞLU,Yeşilyöre İlkokulu,boş
+385,KASTAMONU,CİDE,Birol Durası Anadolu Lisesi,243
+386,KAYSERİ,BÜNYAN,Bünyan Anadolu Lisesi,186
+387,KAYSERİ,BÜNYAN,Bünyan Mesleki ve Teknik Anadolu Lisesi,175
+388,KAYSERİ,BÜNYAN,Hamidiye Mesleki ve Teknik Anadolu Lisesi,169
+389,KAYSERİ,BÜNYAN,Köprübaşı Yakup Atila Ortaokulu,147
+390,KAYSERİ,BÜNYAN,Şehit Muzaffer Can Ersoy Kız Anadolu İmam Hatip Lisesi,160
+391,KAYSERİ,BÜNYAN,Velioğlu Ortaokulu,156
+392,KAYSERİ,BÜNYAN,Yünören Şehit Jandarma Onbaşı Ramazan Koca Ortaokulu,105
+393,KAYSERİ,DEVELİ,Ayhan Yıldırım Anadolu Lisesi,142
+394,KAYSERİ,DEVELİ,Develi İMKB İmam Hatip Ortaokulu,101
+395,KAYSERİ,DEVELİ,Develi Şehit Müsellim Ünal Anadolu Lisesi,140
+396,KAYSERİ,DEVELİ,Develi Şehit Taha Uluçay Kız Anadolu İmam Hatip Lisesi,128
+397,KAYSERİ,DEVELİ,Muammer Kocatürk Mesleki ve Teknik Anadolu Lisesi,94
+398,KAYSERİ,DEVELİ,Pembe-Cesarettin Kocatürk Ortaokulu,146
+399,KAYSERİ,DEVELİ,Selçuk Maşlak Ortaokulu,143
+400,KAYSERİ,FELAHİYE,Kanuni Süleyman Ortaokulu,111
+401,KAYSERİ,İNCESU,Kızılören Osman Kulaç İlkokulu,133
+402,KAYSERİ,İNCESU,Tahirini Duran-Dudu Gümüş Ortaokulu,155
+403,KAYSERİ,KOCASİNAN,Himmetdede Piyade Er Kemal Ergen Çok Programlı Anadolu Lisesi,169
+404,KAYSERİ,KOCASİNAN,Mehmet Akif Ersoy İmam Hatip Ortaokulu,269
+405,KAYSERİ,PINARBAŞI,Atatürk Ortaokulu,boş
+406,KAYSERİ,PINARBAŞI,Dedeman Anadolu İmam Hatip Lisesi,boş
+407,KAYSERİ,PINARBAŞI,Melikgazi İlkokulu,119
+408,KAYSERİ,PINARBAŞI,Pazarören Uygulamalı Ortaokulu,177
+409,KAYSERİ,PINARBAŞI,Pınarbaşı Çok Programlı Anadolu Lisesi,boş
+410,KAYSERİ,PINARBAŞI,Pınarbaşı İMKB Anadolu Lisesi,boş
+411,KAYSERİ,PINARBAŞI,Pınarbaşı Mesleki ve Teknik Anadolu Lisesi,boş
+412,KAYSERİ,SARIZ,Sarız Çok Programlı Anadolu Lisesi,boş
+413,KAYSERİ,SARIZ,Sarız İlkokulu,boş
+414,KAYSERİ,SARIZ,Sarız Türk Telekom Yatılı Bölge Ortaokulu,130
+415,KAYSERİ,SARIZ,Şehit Osman Börklüoğlu Ortaokulu,boş
+416,KAYSERİ,TALAS,Fatma Aksoy Ortaokulu,158
+417,KAYSERİ,TOMARZA,50.Yıl İlkokulu,151
+418,KAYSERİ,TOMARZA,Akdere İmam Hatip Ortaokulu,94
+419,KAYSERİ,TOMARZA,Atatürk Ortaokulu,144
+420,KAYSERİ,TOMARZA,İncili Şehit Yaşar Karakaya Ortaokulu,105
+421,KAYSERİ,TOMARZA,Şehit Nazmi Kapucu Anadolu Lisesi,90
+422,KAYSERİ,TOMARZA,Tomarza Anadolu İmam Hatip Lisesi,146
+423,KAYSERİ,TOMARZA,Tomarza Mesleki ve Teknik Anadolu Lisesi,91
+424,KIRŞEHİR,ÇİÇEKDAĞI,Şehit Ahmet Taş Anadolu Lisesi,92
+425,KIRŞEHİR,KAMAN,Atatürk Ortaokulu,165
+426,KIRŞEHİR,KAMAN,Kaman 15 Temmuz Şehitleri Anadolu Lisesi,72
+427,KIRŞEHİR,KAMAN,Kaman İmam Hatip Ortaokulu,156
+428,KIRŞEHİR,KAMAN,Kaman Türk Telekom Osman Kulaksız Mesleki ve Teknik Anadolu Lisesi,boş
+429,KIRŞEHİR,KAMAN,Şehit Ümit Tekinaslan Mesleki ve Teknik Anadolu Lisesi,109
+430,KOCAELİ,ÇAYIROVA,Çayırova Fevzi Çakmak Anadolu Lisesi,203
+431,KOCAELİ,ÇAYIROVA,Çayırova Kız Anadolu İmam Hatip Lisesi,215
+432,KOCAELİ,ÇAYIROVA,Şekerpınar İmam Hatip Ortaokulu,184
+433,KOCAELİ,DARICA,Darıca Kazım Karabekir İlkokulu,255
+434,KOCAELİ,DARICA,Darıca TOKİ Mesleki ve Teknik Anadolu Lisesi,309
+435,KOCAELİ,DİLOVASI,Dilovası Akşemseddin İlkokulu,121
+436,KOCAELİ,DİLOVASI,Dilovası Hasan Ali Yücel Ortaokulu,145
+437,KOCAELİ,DİLOVASI,Dilovası Mübeccel Çolakoğlu Ortaokulu,143
+438,KOCAELİ,DİLOVASI,Dilovası Polisan Ortaokulu,142
+439,KOCAELİ,DİLOVASI,Hacı Seyit Taşan İlkokulu,133
+440,KOCAELİ,DİLOVASI,Mehmet Akif Ersoy İmam Hatip Ortaokulu,138
+441,KOCAELİ,DİLOVASI,Mehmet Akif Ersoy Ortaokulu,145
+442,KOCAELİ,DİLOVASI,Şehit Mehmet Kocabay Ortaokulu,140
+443,KOCAELİ,DİLOVASI,Şehit Ömer Özavcı Ortaokulu,133
+444,KOCAELİ,DİLOVASI,Yılport Anadolu Lisesi,144
+445,KOCAELİ,GEBZE,Atatürk Anadolu Lisesi,176
+446,KOCAELİ,GEBZE,Farabi İlkokulu,189
+447,KOCAELİ,GEBZE,Farabi Ortaokulu,221
+448,KOCAELİ,GEBZE,Fatih Mesleki ve Teknik Anadolu Lisesi,154
+449,KOCAELİ,GEBZE,Gebze Cumaköy Ortaokulu,168
+450,KOCAELİ,GEBZE,Gebze Kirazpınar İlkokulu,154
+451,KOCAELİ,GEBZE,Gebze STFA Mesleki ve Teknik Anadolu Lisesi,188
+452,KOCAELİ,GEBZE,Hürriyet Ortaokulu,161
+453,KOCAELİ,GEBZE,İl Genel Meclisi İlkokulu,168
+454,KOCAELİ,GEBZE,İl Genel Meclisi Ortaokulu,180
+455,KOCAELİ,GEBZE,Mimar Sinan Ortaokulu,177
+456,KOCAELİ,GEBZE,Şehit İlker Ağçay İlkokulu,173
+457,KOCAELİ,GEBZE,Ulus Ortaokulu,205
+458,KOCAELİ,KANDIRA,Anadolu Kalkınma Vakfı Bağırganlı Ortaokulu,175
+459,KOCAELİ,KANDIRA,Kandıra Kız Anadolu İmam Hatip Lisesi,262
+460,KOCAELİ,KANDIRA,Özbey Ortaokulu,143
+461,KOCAELİ,KARTEPE,Kartepe Mesleki ve Teknik Anadolu Lisesi,344
+462,KOCAELİ,KARTEPE,Şirinsulhiye İlkokulu,243
+463,KOCAELİ,KÖRFEZ,Hereke Anadolu İmam Hatip Lisesi,186
+464,KOCAELİ,KÖRFEZ,İlimtepe 17 Ağustos İlkokulu,335
+465,KOCAELİ,KÖRFEZ,Nuh Çimento Vatan İlkokulu,169
+466,KOCAELİ,KÖRFEZ,Nuh Çimento Vatan Ortaokulu,169
+467,KOCAELİ,KÖRFEZ,Rıfat Ilgaz İlkokulu,153
+468,KOCAELİ,KÖRFEZ,Rıfat Ilgaz Ortaokulu,235
+469,KONYA,ÇUMRA,Gökhüyük İlkokulu,97
+470,KONYA,ÇUMRA,Küçükköy Çatalhüyük İlkokulu,109
+471,KONYA,EREĞLİ,Konya Ereğli Yeniköy İlkokulu,157
+472,KONYA,KARAPINAR,Kesmez Ortaokulu,183
+473,KONYA,KARAPINAR,Şehit Oğuzhan Aydınbelge Mesleki ve Teknik Anadolu Lisesi,168
+474,KONYA,KARAPINAR,Yunus Emre İlkokulu,84
+475,KONYA,KARATAY,Celaleddin Karatay Mesleki ve Teknik Anadolu Lisesi,321
+476,KONYA,KARATAY,Çatalhüyük Anadolu Lisesi,321
+477,KONYA,KARATAY,Saraçoğlu Toki Mustafa Çetin İlkokulu,312
+478,MANİSA,ALAŞEHİR,Emin Ersoy İlkokulu,267
+479,MANİSA,DEMİRCİ,Demirci Anadolu Lisesi,240
+480,MANİSA,DEMİRCİ,Demirci İmam Hatip Ortaokulu,294
+481,MANİSA,DEMİRCİ,Kılavuzlar Şehit Ferhat Vurucu Ortaokulu,211
+482,MANİSA,GÖLMARMARA,Gölmarmara Mesleki ve Teknik Anadolu Lisesi,246
+483,MANİSA,GÖRDES,Gördes Anadolu Lisesi,240
+484,MANİSA,GÖRDES,Gördes İbn-i Sina Mesleki ve Teknik Anadolu Lisesi,211
+485,MANİSA,GÖRDES,Güneşli Ortaokulu,261
+486,MANİSA,KIRKAĞAÇ,Kocaiskan Ortaokulu,243
+487,MANİSA,KÖPRÜBAŞI,Alanyolu Ortaokulu,195
+488,MANİSA,KÖPRÜBAŞI,Borlu Gazi Ortaokulu,205
+489,MANİSA,KÖPRÜBAŞI,Köprübaşı İmam Hatip Ortaokulu,247
+490,MANİSA,KÖPRÜBAŞI,Şehit Hikmet Güler Anadolu İmam Hatip Lisesi,200
+491,MANİSA,SOMA,Çelebi Mehmet Anadolu İmam Hatip Lisesi,253
+492,MANİSA,SOMA,Fatih Mesleki ve Teknik Anadolu Lisesi,229
+493,MANİSA,SOMA,Fatma Aliye Mesleki ve Teknik Anadolu Lisesi,223
+494,MANİSA,SOMA,Mustafa Arife Yenice Köylü Ortaokulu,213
+495,MANİSA,SOMA,Soma Anadolu Lisesi,333
+496,MANİSA,SOMA,Soma Mesleki ve Teknik Anadolu Lisesi,267
+497,MANİSA,TURGUTLU,Hacı Mukaddes-Ahmet ALTAN İlkokulu,337
+498,MERSİN,ANAMUR,Anıtlı Alanoba Ortaokulu,253
+499,MERSİN,GÜLNAR,Alanboğaz Şehit Hüseyin Bulut Ortaokulu,245
+500,MERSİN,GÜLNAR,Gülnar Mesleki ve Teknik Anadolu Lisesi,259
+501,MERSİN,GÜLNAR,İshaklar Ortaokulu,287
+502,MERSİN,GÜLNAR,Kuskan Ortaokulu,246
+503,MERSİN,MUT,Hamam Karatahta Ortaokulu,349
+504,MERSİN,MUT,Turhan Akay Ortaokulu,258
+505,MERSİN,SİLİFKE,Kargıcak Ortaokulu,299
+506,MERSİN,TARSUS,Yenice Atatürk İlkokulu,301
+507,MUĞLA,BODRUM,Güvercinlik Sudi Özkan Ortaokulu,421
+508,MUĞLA,DATÇA,Datça Mustafa Kutluay Ortaokulu,369
+509,MUĞLA,SEYDİKEMER,Bayır Şehit Sabri Acar Ortaokulu,300
+510,MUĞLA,SEYDİKEMER,KADIKÖY ORTAOKULU,323
+511,ORDU,ÇAYBAŞI,İlküvez Ortaokulu,236
+512,ORDU,KORGAN,Korgan Anadolu İmam Hatip Lisesi,222
+513,ORDU,KUMRU,Atatürk Ortaokulu,233
+514,OSMANİYE,MERKEZ,Cevdetiye Çok Programlı Anadolu Lisesi,110
+515,OSMANİYE,MERKEZ,Cevdetiye Milli Egemenlik İlkokulu,boş
+516,OSMANİYE,MERKEZ,Mamure Ortaokulu,150
+517,SAKARYA,ADAPAZARI,Murtaza Erdoğan İlkokulu,246
+518,SAKARYA,ADAPAZARI,Şehit Lokman Eker Ortaokulu,283
+519,SAKARYA,AKYAZI,Ahi Evran Mesleki ve Teknik Anadolu Lisesi,170
+520,SAKARYA,AKYAZI,Alaağaç Ortaokulu,145
+521,SAKARYA,AKYAZI,Ali Altıparmak Ortaokulu,167
+522,SAKARYA,AKYAZI,Kabakulak Anadolu Kalkınma Vakfı Ortaokulu,159
+523,SAKARYA,AKYAZI,Küçücek Cumhuriyet Ortaokulu,130
+524,SAKARYA,AKYAZI,Pazarköy Ortaokulu,160
+525,SAKARYA,AKYAZI,Şehit Ahmet Çondul İlkokulu,134
+526,SAKARYA,AKYAZI,Topağaç İlkokulu,116
+527,SAKARYA,ARİFİYE,Milli Egemenlik İlkokulu,198
+528,SAKARYA,ERENLER,Ekinli İlkokulu,145
+529,SAKARYA,ERENLER,Şehit Mehmet Solak Ortaokulu,155
+530,SAKARYA,ERENLER,TEV Esat Egesoy Bedia Başgöz İlkokulu,182
+531,SAKARYA,HENDEK,Aşağı Çalıca İlkokulu,121
+532,SAKARYA,HENDEK,Aşağı Çalıca Ortaokulu,180
+533,SAKARYA,HENDEK,Atikehanım Ortaokulu,206
+534,SAKARYA,HENDEK,Beylice Ortaokulu,209
+535,SAKARYA,HENDEK,Çamlıca Ortaokulu,189
+536,SAKARYA,HENDEK,Hendek Anadolu Kalkınma Vakfı Mesleki ve Teknik Anadolu Lisesi,195
+537,SAKARYA,HENDEK,Karadere İlkokulu,118
+538,SAKARYA,HENDEK,Nuriye İlkokulu,166
+539,SAKARYA,HENDEK,Yeşilvadi İlkokulu,121
+540,SAKARYA,KARASU,Yuvalıdere Ortaokulu,138
+541,SAKARYA,SAPANCA,Sapanca Lokman Hekim Mesleki ve Teknik Anadolu Lisesi,262
+542,SAKARYA,SÖĞÜTLÜ,Akçakamış İlkokulu,178
+543,SAMSUN,ÇARŞAMBA,Gökçeçakmak Ortaokulu,278
+544,SAMSUN,TERME,Hüseyinmescit Ortaokulu,297
+545,SAMSUN,VEZİRKÖPRÜ,Fazıl Ahmet Paşa Ortaokulu,201
+546,SAMSUN,VEZİRKÖPRÜ,Şehit Müftü İmam Hatip Ortaokulu,229
+547,SAMSUN,VEZİRKÖPRÜ,Vezirköprü Mesleki ve Teknik Anadolu Lisesi,190
+548,ŞANLIURFA,BİRECİK,Mezra Çok Programlı Anadolu Lisesi,boş
+549,TEKİRDAĞ,ÇERKEZKÖY,125.Yıl Ortaokulu,142
+550,TEKİRDAĞ,ÇERKEZKÖY,Büyükşehir Belediyesi Gazi Mustafa Kemal Ortaokulu,145
+551,TEKİRDAĞ,ÇERKEZKÖY,Çerkezköy Organize Sanayi Bölgesi Ortaokulu,186
+552,TEKİRDAĞ,ÇERKEZKÖY,Fatih Sultan Mehmet İmam Hatip Ortaokulu,122
+553,TEKİRDAĞ,ÇERKEZKÖY,Hacı Fahri Zümbül Anadolu İmam Hatip Lisesi,267
+554,TEKİRDAĞ,ÇERKEZKÖY,Kızılpınar Atatürk İlkokulu,172
+555,TEKİRDAĞ,ÇERKEZKÖY,Kızılpınar Belediyesi Çok Programlı Anadolu Lisesi,115
+556,TEKİRDAĞ,ÇERKEZKÖY,Metin Seçkin Ortaokulu,234
+557,TEKİRDAĞ,ÇERKEZKÖY,Necip Fazıl Kısakürek İlkokulu,132
+558,TEKİRDAĞ,ÇERKEZKÖY,Nurullah Narin Ortaokulu,224
+559,TEKİRDAĞ,ÇERKEZKÖY,Osmanlı İlkokulu,134
+560,TEKİRDAĞ,ÇERKEZKÖY,Osmanlı Ortaokulu,142
+561,TEKİRDAĞ,ÇERKEZKÖY,Sarbak Metal Cumhuriyet Anadolu Lisesi,185
+562,TEKİRDAĞ,ÇERKEZKÖY,Şehit Ömer Halisdemir İmam Hatip Ortaokulu,205
+563,TEKİRDAĞ,ÇERKEZKÖY,Ticaret ve Sanayi Odası Anadolu Lisesi,223
+564,TEKİRDAĞ,ÇERKEZKÖY,Veliköy Belediyesi Ortaokulu,167
+565,TEKİRDAĞ,ÇERKEZKÖY,Veliköy İlkokulu,242
+566,TEKİRDAĞ,ÇERKEZKÖY,Veliköy İmam Hatip Ortaokulu,135
+567,TEKİRDAĞ,ÇERKEZKÖY,Veliköy Organize Sanayi Bölgesi Mesleki ve Teknik Anadolu Lisesi,140
+568,TEKİRDAĞ,HAYRABOLU,Çerkezmusellim İlkokulu,214
+569,TEKİRDAĞ,KAPAKLI,Büyükşehir Belediyesi İsmet İnönü İlkokulu,217
+570,TEKİRDAĞ,KAPAKLI,Cumhuriyet İlkokulu,208
+571,TEKİRDAĞ,KAPAKLI,Kapaklı Belediyesi Ortaokulu,145
+572,TEKİRDAĞ,KAPAKLI,Kapaklı Gazi Ortaokulu,174
+573,TEKİRDAĞ,KAPAKLI,Kapaklı Mesleki ve Teknik Anadolu Lisesi,125
+574,TEKİRDAĞ,KAPAKLI,Karaağaç Atatürk Ortaokulu,143
+575,TEKİRDAĞ,KAPAKLI,Karaağaç İlkokulu,133
+576,TEKİRDAĞ,KAPAKLI,Oktay Sinanoğlu Anadolu Lisesi,144
+577,TEKİRDAĞ,KAPAKLI,Şehit Kadir Dadaş Mesleki ve Teknik Anadolu Lisesi,110
+578,TEKİRDAĞ,KAPAKLI,Yanıkağıl Ortaokulu,157
+579,TEKİRDAĞ,SARAY,Atatürk Ortaokulu,259
+580,TEKİRDAĞ,SARAY,Küçükyoncalı İlkokulu,161
+581,TEKİRDAĞ,SARAY,Mustafa Kemal Atatürk Mesleki ve Teknik Anadolu Lisesi,180
+582,TEKİRDAĞ,SARAY,Şehit İbrahim Parlakcı Ortaokulu,150
+583,TEKİRDAĞ,ŞARKÖY,Hoşköy Ortaokulu,239
+584,TOKAT,ALMUS,Almus Halk Eğitimi Merkezi,136
+585,TOKAT,ARTOVA,Çelikli Şehit Bekir Kurt Ortaokulu,boş
+586,TOKAT,ERBAA,Hacıpazar Ortaokulu,185
+587,TOKAT,ERBAA,Necip Fazıl Kısakürek Ortaokulu,235
+588,TOKAT,ERBAA,Seyrantepe Mesleki ve Teknik Anadolu Lisesi,150
+589,TOKAT,MERKEZ,Çamlıbel Çok Programlı Anadolu Lisesi,174
+590,TOKAT,MERKEZ,Semerci Ortaokulu,196
+591,TOKAT,NİKSAR,Danışment Gazi Anadolu Lisesi,202
+592,TOKAT,NİKSAR,Gökçeli Şehit Necmettin Yiğit Ortaokulu,120
+593,TOKAT,NİKSAR,Kaya Ismet Özden Ortaokulu,126
+594,TOKAT,NİKSAR,Niksar Mesleki ve Teknik Anadolu Lisesi,128
+595,TOKAT,PAZAR,Dereköy Ortaokulu,145
+596,TOKAT,PAZAR,Gazi Osman Paşa İmam Hatip Ortaokulu,111
+597,TOKAT,PAZAR,Pazar Üzümören Selçuk Çok Programlı Anadolu Lisesi,boş
+598,TOKAT,SULUSARAY,Sulusaray Çok Programlı Anadolu Lisesi,106
+599,TOKAT,TURHAL,Şenyurt Atatürk Ortaokulu,141
+600,TOKAT,YEŞİLYURT,Yeşilyurt Şehit Yusuf Parlak Çok Programlı Anadolu Lisesi,boş
+601,TOKAT,ZİLE,Dinçerler Mesleki ve Teknik Anadolu Lisesi,119
+602,TOKAT,ZİLE,Nene Hatun Mesleki ve Teknik Anadolu Lisesi,216
+603,TOKAT,ZİLE,Zile Halk Eğitimi Merkezi,120
+604,TOKAT,ZİLE,Zile Mesleki ve Teknik Anadolu Lisesi,111
+605,TRABZON,SÜRMENE,Sürmene Hasan Sadri Yetmişbir Anadolu Lisesi,268
+606,YALOVA,ALTINOVA,Tokmak Ortaokulu,268
+607,YALOVA,ARMUTLU,Fıstıklı Ortaokulu,331
+608,YALOVA,ÇINARCIK,Esenköy Adnan Kaptan İlkokulu,256
+609,YALOVA,ÇINARCIK,Esenköy Adnan Kaptan Ortaokulu,244
+610,YALOVA,ÇİFTLİKKÖY,Kılıç Ortaokulu,281
+611,YALOVA,MERKEZ,700.Yıl Osmangazi Ortaokulu,294
+612,YALOVA,MERKEZ,Safran Ortaokulu,277
+613,YALOVA,MERKEZ,Yalova Anadolu İmam Hatip Lisesi,313
+614,ZONGULDAK,ALAPLI,Aşağıdağ Ortaokulu,144
+615,ZONGULDAK,ALAPLI,Gümeli Ortaokulu,157
+616,ZONGULDAK,ALAPLI,Kılçak İlkokulu,218
+617,ZONGULDAK,ALAPLI,Küçükkaymaz Ortaokulu,171
+618,ZONGULDAK,ÇAYCUMA,Dereköseler Ortaokulu,198
+619,ZONGULDAK,ÇAYCUMA,Hacılar İlkokulu,272
+620,ZONGULDAK,ÇAYCUMA,Hisarönü Zübeyde Hanım İlkokulu,185
+621,ZONGULDAK,ÇAYCUMA,Muharremşah İlkokulu,277
+622,ZONGULDAK,EREĞLİ,Çayırlı İlkokulu,206
+623,ZONGULDAK,EREĞLİ,Dağlıca İlkokulu,145
+624,ZONGULDAK,EREĞLİ,Ormanlı Çok Programlı Anadolu Lisesi,230
