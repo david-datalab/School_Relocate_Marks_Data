@@ -12,15 +12,35 @@ toDb = pd.DataFrame(columns=["City", "District", "School","Marks"])
 for index,table in enumerate(tables):
     table_index = index
 
+# Check Section
+print("\nÖzelleştirmeleri giriniz [Uygulamamak için boş bırakın]\n")
+try:
+    city = str(input("Şehir ismi giriniz: "))
+    district = str(input("İlçe ismi giriniz: "))
+    mark = int(input("maksimum puan giriniz: "))
+except:
+    print("\nPuan bir sayı girilmedi\nProgram devam ediyor...")
+    mark = 1000
+
 #print(tables[table_index].prettify())
 for row in tables[table_index].tbody.find_all("tr"):
     col = row.find_all("td")
+
+    # Check Section - bool variables
+    cityCheck = city.lower().strip() in col[0].text.strip().lower()
+    districtCheck = district.lower().strip() in col[1].text.strip().lower()
+    try:
+        markCheck = int(col[3].text.strip()) <= mark
+    except:
+        markCheck = True
+
     if (col != []):
-        City = col[0].text
-        District = col[1].text
-        School = col[2].text
-        Marks = col[3].text
-        toDb = toDb.append({"City":City, "District":District, "School":School, "Marks":Marks}, ignore_index=True)
+        if (cityCheck and districtCheck and markCheck):
+            City = col[0].text.lower().strip()
+            District = col[1].text.lower().strip()
+            School = col[2].text.lower().strip()
+            Marks = col[3].text.lower().strip()
+            toDb = toDb.append({"City":City, "District":District, "School":School, "Marks":Marks}, ignore_index=True)
 
 #print(toDb)
 dataFrame = pd.DataFrame(toDb)
