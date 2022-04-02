@@ -35,6 +35,7 @@ https://www.egitimokulu.com/teknoloji-ve-tasarim-2021-il-disi-atama-puanlari/
 https://www.egitimokulu.com/turkce-2021-il-disi-atama-puanlari/
 https://www.egitimokulu.com/turk-dili-ve-edebiyati-2021-il-disi-atama-puanlari/
 """
+"""
 links = {
 "beden":"https://www.egitimokulu.com/beden-egitimi-2021-il-disi-atama-puanlari/",
 "bilTek":"https://www.egitimokulu.com/bilisim-teknolojileri-2021-il-disi-atama-puanlari/",
@@ -59,6 +60,32 @@ links = {
 "turkce":"https://www.egitimokulu.com/turkce-2021-il-disi-atama-puanlari/",
 "turkDili":"https://www.egitimokulu.com/turk-dili-ve-edebiyati-2021-il-disi-atama-puanlari/"
 }
+"""
+links = {
+1:"https://www.egitimokulu.com/beden-egitimi-2021-il-disi-atama-puanlari/",
+2:"https://www.egitimokulu.com/bilisim-teknolojileri-2021-il-disi-atama-puanlari/",
+3:"https://www.egitimokulu.com/cografya-2021-il-disi-atama-puanlari/",
+4:"https://www.egitimokulu.com/din-kulturu-ve-ahlak-bilgisi-2021-il-disi-atama-puanlari/",
+5:"https://www.egitimokulu.com/elektrik-elektronik-2021-il-disi-atama-puanlari/",
+6:"https://www.egitimokulu.com/felsefe-2021-il-disi-atama-puanlari/",
+7:"https://www.egitimokulu.com/fen-bilimleri-2021-il-disi-atama-puanlari/",
+8:"https://www.egitimokulu.com/gorsel-sanatlar-2021-il-disi-atama-puanlari/",
+9:"https://www.egitimokulu.com/ilkogretim-matematik-2021-il-disi-atama-puanlari/",
+10:"https://www.egitimokulu.com/ingilizce-2021-il-disi-atama-puanlari/",
+11:"https://www.egitimokulu.com/kimya-2021-il-disi-atama-puanlari/",
+12:"https://www.egitimokulu.com/matematik-2021-il-disi-atama-puanlari/",
+13:"https://www.egitimokulu.com/muzik-2021-il-disi-atama-puanlari/",
+14:"https://www.egitimokulu.com/okul-oncesi-anaokulu-2021-il-disi-atama-puanlari/",
+15:"https://www.egitimokulu.com/ozel-egitim-2021-il-disi-atama-puanlari/",
+16:"https://www.egitimokulu.com/rehberlik-2021-il-disi-atama-puanlari/",
+17:"https://www.egitimokulu.com/sinif-ogretmenligi-2021-il-disi-atama-puanlari/",
+18:"https://www.egitimokulu.com/sosyal-bilgiler-2021-il-disi-atama-puanlari/",
+19:"https://www.egitimokulu.com/tarih-2021-il-disi-atama-puanlari/",
+20:"https://www.egitimokulu.com/teknoloji-ve-tasarim-2021-il-disi-atama-puanlari/",
+21:"https://www.egitimokulu.com/turkce-2021-il-disi-atama-puanlari/",
+22:"https://www.egitimokulu.com/turk-dili-ve-edebiyati-2021-il-disi-atama-puanlari/"
+}
+print(links[3])
 print(
     "\n"
     " 1 -> Beden Egitimi","\n",
@@ -88,9 +115,10 @@ print(
 """a loop to choose a feild and give it the link for it"""
 
 feild = int(input("Feild seç:"))
+print(links[feild])
 for i in range(1,23):
     if i == feild:
-        print(i, links["beden"])
+        print(i, links[feild])
     else:
         break
 
