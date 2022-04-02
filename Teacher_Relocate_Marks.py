@@ -10,57 +10,7 @@ import re
 # the program must return all the reuslts if no inforamtion was given.
 # the program must save all the data in a database.
 # the program must have an interactive web app to allow maximum benifet.
-"""
-2021 links count 22:
-https://www.egitimokulu.com/beden-egitimi-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/bilisim-teknolojileri-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/cografya-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/din-kulturu-ve-ahlak-bilgisi-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/elektrik-elektronik-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/felsefe-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/fen-bilimleri-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/gorsel-sanatlar-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/ilkogretim-matematik-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/ingilizce-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/kimya-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/matematik-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/muzik-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/okul-oncesi-anaokulu-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/ozel-egitim-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/rehberlik-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/sinif-ogretmenligi-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/sosyal-bilgiler-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/tarih-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/teknoloji-ve-tasarim-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/turkce-2021-il-disi-atama-puanlari/
-https://www.egitimokulu.com/turk-dili-ve-edebiyati-2021-il-disi-atama-puanlari/
-"""
-"""
-links = {
-"beden":"https://www.egitimokulu.com/beden-egitimi-2021-il-disi-atama-puanlari/",
-"bilTek":"https://www.egitimokulu.com/bilisim-teknolojileri-2021-il-disi-atama-puanlari/",
-"cografya":"https://www.egitimokulu.com/cografya-2021-il-disi-atama-puanlari/",
-"din":"https://www.egitimokulu.com/din-kulturu-ve-ahlak-bilgisi-2021-il-disi-atama-puanlari/",
-"elektrik":"https://www.egitimokulu.com/elektrik-elektronik-2021-il-disi-atama-puanlari/",
-"felsefe":"https://www.egitimokulu.com/felsefe-2021-il-disi-atama-puanlari/",
-"fenBil":"https://www.egitimokulu.com/fen-bilimleri-2021-il-disi-atama-puanlari/",
-"gorSan":"https://www.egitimokulu.com/gorsel-sanatlar-2021-il-disi-atama-puanlari/",
-"ilkMat":"https://www.egitimokulu.com/ilkogretim-matematik-2021-il-disi-atama-puanlari/",
-"ingilizce":"https://www.egitimokulu.com/ingilizce-2021-il-disi-atama-puanlari/",
-"kimya":"https://www.egitimokulu.com/kimya-2021-il-disi-atama-puanlari/",
-"matematik":"https://www.egitimokulu.com/matematik-2021-il-disi-atama-puanlari/",
-"muzik":"https://www.egitimokulu.com/muzik-2021-il-disi-atama-puanlari/",
-"okulOnce":"https://www.egitimokulu.com/okul-oncesi-anaokulu-2021-il-disi-atama-puanlari/",
-"ozelEgit":"https://www.egitimokulu.com/ozel-egitim-2021-il-disi-atama-puanlari/",
-"rehberlik":"https://www.egitimokulu.com/rehberlik-2021-il-disi-atama-puanlari/",
-"sinifOgre":"https://www.egitimokulu.com/sinif-ogretmenligi-2021-il-disi-atama-puanlari/",
-"sosyal":"https://www.egitimokulu.com/sosyal-bilgiler-2021-il-disi-atama-puanlari/",
-"tarih":"https://www.egitimokulu.com/tarih-2021-il-disi-atama-puanlari/",
-"tekVeTas":"https://www.egitimokulu.com/teknoloji-ve-tasarim-2021-il-disi-atama-puanlari/",
-"turkce":"https://www.egitimokulu.com/turkce-2021-il-disi-atama-puanlari/",
-"turkDili":"https://www.egitimokulu.com/turk-dili-ve-edebiyati-2021-il-disi-atama-puanlari/"
-}
-"""
+
 links = {
 1:"https://www.egitimokulu.com/beden-egitimi-2021-il-disi-atama-puanlari/",
 2:"https://www.egitimokulu.com/bilisim-teknolojileri-2021-il-disi-atama-puanlari/",
@@ -85,7 +35,7 @@ links = {
 21:"https://www.egitimokulu.com/turkce-2021-il-disi-atama-puanlari/",
 22:"https://www.egitimokulu.com/turk-dili-ve-edebiyati-2021-il-disi-atama-puanlari/"
 }
-print(links[3])
+
 print(
     "\n"
     " 1 -> Beden Egitimi","\n",
@@ -112,25 +62,13 @@ print(
     "22 -> Turk Dili ve Edebiyati","\n",    
 
 )
-"""a loop to choose a feild and give it the link for it"""
+#a loop to choose a feild and give it the link for it
 
 feild = int(input("Feild seç:"))
-print(links[feild])
-for i in range(1,23):
-    if i == feild:
-        print(i, links[feild])
-    else:
-        break
-
-
-English = "https://www.egitimokulu.com/ingilizce-2021-il-disi-atama-puanlari/"
-#if field == "English":
-#    print("English")
-url = English
+url = links[feild]
 data  = requests.get(url).text
 soup = BeautifulSoup(data,"html5lib")
 tables = soup.find_all('table') # in html table is represented by the tag <table>
-
 toDb = pd.DataFrame(columns=["City", "District", "School","Marks"])
 for index,table in enumerate(tables):
     table_index = index
