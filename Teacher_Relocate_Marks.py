@@ -3,14 +3,33 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import re
-# First the teacher must provide some information:
-# 1- Working field.
-# 2- Teacher's Marks.
-# 3- Desired City.
-# 4- Desired District and School.
-# the program must return all the reuslts if no inforamtion was given.
-# the program must save all the data in a database.
-# the program must have an interactive app to allow maximum benifet.
+import sqlite3
+import time as T
+
+try:
+    #Database creation
+    conn = sqlite3.connect('Database.sqlite')
+    #Database Handler
+    cur = conn.cursor()
+    #Database table
+    cur.executescript('''
+    DROP TABLE IF EXISTS TeacherData
+    ''')
+    cur.executescript('''
+    CREATE TABLE IF NOT EXISTS TeacherData (
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    city TEXT,
+    district TEXT,
+    school TEXT,
+    points INTEGER
+    )
+    ''')
+
+except Exception as E1:
+    print('E1: Database creation error')
+    print(E1)
+
+conn.commit()
 
 links = {
 1:"https://www.egitimokulu.com/beden-egitimi-2021-il-disi-atama-puanlari/",
@@ -63,149 +82,48 @@ print(
     "22 -> Turk Dili ve Edebiyati","\n",    
 
 )
-"""
-first choose the field 2nd choose the city 3rd choose the district and enter the marks
-how to do it?
-we choose the specialization and get the link to download the data
-later I will read the data and clean it to show what options the user have
-from what the user will see they will proceed to choose the city and district and show the results depening on their choice
-"""
+
 feild = int(input("Choose a Feild:"))
 url = links[feild]
 data  = requests.get(url).text
 soup = BeautifulSoup(data,"html5lib")
 tables = soup.find_all('table') # in html table is represented by the tag <table>
-toDb = pd.DataFrame(columns=["City","District","School","Marks"])
 
 for index,table in enumerate(tables):
     table_index = index
 
 for row in tables[table_index].tbody.find_all("tr"):    
     col = row.find_all("td")
-    City = col[0].text.strip()
-    District = col[1].text.strip()
-    School = col[2].text.strip()
-    Marks = col[3].text.strip()
-    toDb = toDb.append({"City":City, "District":District, "School":School, "Marks":Marks}, ignore_index=True)
-
-unique_cities = pd.unique(toDb["City"])
-city_dict= {}
-counter = -1
-for i in unique_cities:
-    counter = counter + 1
-    print(counter, i)
-    city_dict[counter] = i
-    
-
-city_choice = int(input("choose a city:"))
-print(city_dict[city_choice])
-
-
-city_dis_group= pd.DataFrame(data=[City,District])
-print(city_dis_group.groupby([City]))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-# Check Section
-print("\nÖzelleştirmeleri giriniz [Uygulamamak için boş bırakın]\n")
-try:
-    city = str(input("Şehir ismi giriniz: "))
-    district = str(input("İlçe ismi giriniz: "))
-    mark = int(input("maksimum puan giriniz: "))
-except:
-    print("\nPuan bir sayı girilmedi\nProgram Tum Puanlar Gosteryor...")
-    mark = 1000
-
-for row in tables[table_index].tbody.find_all("tr"):
-    
-    col = row.find_all("td")
-    # Check Section - bool variables
-    cityCheck = city.lower().strip() in col[0].text.strip().lower()
-    districtCheck = district.lower().strip() in col[1].text.strip().lower()
-    
+    city = col[0].text.strip()
+    district = col[1].text.strip()
+    school = col[2].text.strip()
+    points = col[3].text.strip()
     try:
-        markCheck = int(col[3].text.strip()) <= mark
-    except:
-        markCheck = True
+        #first we start to write the data to the database
+        cur.execute('''INSERT OR IGNORE INTO TeacherData (city, district, school, points)
+        VALUES (?,?,?,?)''',(city, district, school, points))
+        cur.execute('DELETE FROM TeacherData WHERE city = "İl Adı"')
+    except Exception as E4:
+        print('E4: Database writing error')
+        print(E4)
 
-    if (col != []):
-        if (cityCheck and districtCheck and markCheck):
-            City = col[0].text.lower().strip()
-            District = col[1].text.lower().strip()
-            School = col[2].text.lower().strip()
-            Marks = col[3].text.lower().strip()
-            toDb = toDb.append({"City":City, "District":District, "School":School, "Marks":Marks}, ignore_index=True)
-"""
-dataFrame = pd.DataFrame(toDb)
-dataFrame.to_csv(str(feild)+".csv")
+    conn.commit()
 
-
-
-
-
-
-
-
-
-
-"""
-    cityDf= pd.Series(data = City)
-    districtDf = pd.Series(data = District)
-    schoolDf = pd.Series(data = School)
-    marksDf = pd.Series(data=Marks)
-    toDb = pd.concat([cityDf,districtDf,schoolDf,marksDf], axis=1, ignore_index=True)
-print(toDb)
-"""
-
-
-"""
-Employee_info1 = {'Employee_name':['Micheal', 'William', 'Bob', 'Oliva'],
-		'Employee_id':[834, 156, 349, 168],
-		'Employee_age':[23, 37, 46, 26]
-	}
-
-df1 = pd.DataFrame(Employee_info1)
-
-
-Employee_info2 = {'Employee_name':['Elijah', 'John'],
-		'Employee_id':[78, 118],
-		'Employee_age':[17, 19]
-	}
-
-df2 = pd.DataFrame(Employee_info2)
-new_val = pd.concat([df1, df2], ignore_index = True)
-new_val.reset_index()
-
-print(new_val)
-"""
+#to check the results
+try:
+    cur.execute('SELECT city FROM TeacherData')
+    result = cur.fetchall()
+    print(result)
+except Exception as E5:
+    print('E5: Data checking error')
+    print(E5)
+try:
+    #city_choice = input("choose a city:")
+    cur.execute('SELECT DISTINCT(district) FROM TeacherData WHERE city = "ADANA"')
+    result1 = cur.fetchall()
+    print(result1)
+except Exception as E5:
+    print('E5: Data checking error')
+    print(E5)
+#pass
+conn.commit()
